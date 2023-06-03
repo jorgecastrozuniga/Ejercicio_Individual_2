@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_02</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo electronico</string>
+    <string name="titulo">Formulario de Registro</string>
+</resources>
